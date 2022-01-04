@@ -1,0 +1,3 @@
+[submodule "MoonPhase"]
+	path = MoonPhase
+	url = git@github.com:signetica/MoonPhase.git
