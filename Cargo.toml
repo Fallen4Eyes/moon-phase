@@ -2,7 +2,10 @@
 name = "moon-phase"
 version = "0.1.0"
 edition = "2018"
-
+license = "MIT OR Apache-2.0"
+description = "Calculates the phase and position of the moon."
+repository = "https://github.com/Fallen4Eyes/moon-phase"
+readme = "README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
